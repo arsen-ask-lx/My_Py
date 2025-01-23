@@ -1,4 +1,4 @@
-<p align="center"><span style="font-size: 30px;">Даттэбаё! Добро пожаловать на курс по программированию My_Py</span></p>
+<p align="center"><span style="font-size: 40px;">Даттэбаё! Добро пожаловать на курс по программированию My_Py</span></p>
 
 ![image_1](image_repo/Pasted%20image%2020250116165719.png)
 
