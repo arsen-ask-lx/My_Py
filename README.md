@@ -24,7 +24,7 @@
 3. Тимофей Хирьянов. МФТИ. Алгоритмы и структуры данных на Python -- [Ссылка](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 4. selfedu. Сергей Балакирев. Добрый, добрый Python -- [Ссылка](https://www.youtube.com/watch?v=btuxcr7Sxw4&list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd)
 
-
+<br>
 
 <p align="justify">Пройдя курс вы навряд ли устроитесь на работу, так как в нем не рассматриваются фреймворки или какие-то особые знания и утилиты, которые обычно требуют при трудоустройстве в "крутые" места.</p>
 
