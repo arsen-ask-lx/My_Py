@@ -1,4 +1,4 @@
-# ![Pasted image 20250116165719.png]([ссылка_на_изображение](https://github.com/arsen-ask-lx/My_Py/blob/main/image_repo/1654688635_1-celes-club-p-malenkii-naruto-oboi-krasivie-1.jpg))
+# ![Pasted image 20250116165719.png]([ссылка_на_изображение](https://github.com/arsen-ask-lx/My_Py/blob/main/image_repo/1654688635_1-celes-club-p-malenkii-naruto-oboi-krasivie-1.jpg?raw=true)
 
 <center>Даттэбаё! Добро пожаловать на курс по программированию My_Py</center>
 
